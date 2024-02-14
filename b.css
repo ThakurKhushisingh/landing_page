@@ -1,0 +1,145 @@
+h3{
+    color: #0c033f;
+  }
+  
+footer{
+  opacity: 90%;
+  color: white;
+}
+ 
+
+
+    body{ 
+        height: 100vh;
+        background-image: url(bg.jpg);
+      display: block;
+        background-repeat:repeat-y;
+            background-size:cover;
+            animation: move 3s infinite linear;
+            cursor: pointer;
+    }
+
+    #ul{
+    list-style: none;
+    display: flex;
+  flex-wrap: wrap;
+    color: whitesmoke;
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    border-radius: 200px;
+    height: 80px;
+    width: 600px;
+    justify-self: center;
+}
+
+
+p{
+    color: rgb(0, 0, 0);
+    font: 0.8em sans-serif;
+}
+.Q{
+    height: 70px;
+    width: 70px;
+    margin-top: 5px;
+    float: left;
+    border-radius: 40px;
+}
+    button{
+      background-color: black;
+    border: 2px solid black;
+   transition: 0.4s ease-in-out all .3s;
+   color: white;
+   border-radius: 22px;
+  height: 75px;
+  width: 110px;
+   text-decoration: none;
+   justify-self: center;
+   margin-left: 10px;
+    }
+    button:hover{
+        background: grey;
+        height: 80px;
+        width: 140px;
+        border-radius: 32px;
+        font: 1em sans-serif;
+        margin-left: 20px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+header {
+    
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+#gh{
+  color: darkred;
+  border-style: double;
+  width: 230px;
+}
+h2{
+  color: rgb(138, 0, 0);
+  border-style: double;
+  width: 130px;
+}
+
+button {
+    background-color: #050505;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 130px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+  opacity: 80%;
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+section.main-content{
+  background-color: white;
+  opacity: 80%;
+  margin-left: 100px;
+  border-radius: 30px;
+}
+div{
+  color: black;
+opacity: 100%;
+}
+#ai{
+  opacity: 80%;
+background-color:#333;
+  height: 150px;
+display: flex;
+justify-content: center;
+}
+
+
+.s{
+  width: 60px;
+  height: 60px;
+  border-radius: 40px;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+h3{
+  margin-top: 45px;
+  color: white;
+}
